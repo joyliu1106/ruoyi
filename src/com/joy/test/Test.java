@@ -3,7 +3,7 @@ package com.joy.test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class test {
+public class Test {
     public static void main(String[] args) {
         User user = new User(1, "");
         User user1 = new User(2, "");
